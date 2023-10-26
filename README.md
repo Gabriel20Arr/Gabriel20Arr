@@ -28,12 +28,19 @@ Soy un apasionado desarrollador FullStack y entusiasta de la tecnología con exp
 Aquí tienes algunos de los proyectos en los que he trabajado recientemente:
 
 1. **Proyecto Full Stack: Marketplace**
-   - Descripción: Es un Marketplace donde podrás iniciar sesión con cuentas de Google o crear tu propia cuenta, podrás publicar tus productos y visualizarlos. También podrás comprar productos de otros usuarios mediante Mercado Pago u otras opciones de pago.
+   - Descripción: Es un Marketplace donde podrás iniciar sesión con cuentas de Google o crear tu propia cuenta, podrás publicar tus productos y visualizarlos. También podrás comprar productos de otros 
+     usuarios mediante Mercado Pago u otras opciones de pago.
    - URL: [https://marketx-doploy.vercel.app/](https://marketx-doploy.vercel.app/)
 
 2. **Proyecto Full Stack sobre Foods**
    - Descripción: Podrás crear tus propias recetas, buscar alguna receta en específico, filtrarlas por diferentes opciones y más.
    - URL: [https://deploy-food-sage.vercel.app/](https://deploy-food-sage.vercel.app/)
+
+3. **Proyecto portafolio**
+   - Descripcio:   El proyecto consiste en la creación de mi portafolio personal como una Single Page Application (SPA). El objetivo principal es mostrar mis habilidades, proyectos anteriores, y experiencias       profesionales de una manera atractiva y organizada.
+     En este proyecto, asumí el rol de desarrollador Full Stack y también el de diseñador. Fui responsable de la planificación, diseño y desarrollo de la SPA de principio a fin.
+     Utilicé tecnologías como HTML, CSS y JavaScript para construir la interfaz de usuario de mi portafolio. Implementé un diseño moderno y receptivo que resalta mis proyectos y habilidades de manera efectiva.
+   - URL: https://portfolio-gabriel20arr.vercel.app/
 
 Agradezco tu consideración y me encantaría tener la oportunidad de discutir cómo puedo aportar valor a tu equipo.
 
