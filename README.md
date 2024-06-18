@@ -22,7 +22,7 @@ Soy un apasionado desarrollador FullStack y entusiasta de la tecnología con exp
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gabriel20Arr&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Gabriel&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 ### 💻 Mis Proyectos
 
 Aquí tienes algunos de los proyectos en los que he trabajado recientemente:
