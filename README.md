@@ -1,7 +1,20 @@
 ![image](https://github.com/Gabriel20Arr/Gabriel20Arr/assets/113488932/9cf590f8-a77f-4150-96ed-0bf888bb328b)
 
 # 💫 About Me:
-Soy un apasionado desarrollador FullStack y entusiasta de la tecnología con experiencia en todas las áreas del desarrollo web. Soy argentino y trabajó en diversos proyectos utilizando un amplio conjunto de tecnologías, incluyendo:<br><br>React, JavaScript, Redux, CSS, HTML, Express, PostgreSQL, Sequelize, Bootstrap, MongoDB, Next.js<br><br>Experiencia destacada<br>Destaco por haber desarrollado un e-commerce completo desde cero, donde trabajé en colaboración con un equipo de 6 personas. Asumí roles tanto de backend como de frontend, participando en la implementación de sistemas de pago y en el uso exitoso del sitio web. Esta experiencia me permitió adquirir un conocimiento profundo del ciclo completo de desarrollo y desafíos técnicos en todas las etapas del proceso.<br><br>Además, tuvo la oportunidad de trabajar en otros dos proyectos full-stack donde fui responsable de la arquitectura, la interfaz de usuario y la implementación de funcionalidades clave.<br><br>Habilidades y características<br>Me considero una persona empática, responsable y disciplinada, y disfruto trabajar en equipo. Aprendió a colaborar efectivamente en entornos grupales y demostró habilidades de comunicación y liderazgo al trabajar con equipos de hasta 6 personas.
+Backend Developer especializado en Java, Spring Boot, JDBC y bases de datos relacionales | Apasionado por la arquitectura y optimización de sistemas.
+
+Argentino, Backend Developer con más de 1 año de experiencia diseñando y desarrollando aplicaciones robustas y escalables. Me especializo en Java, Spring Boot, Hibernate, JDBC, SQL/PL-SQL, PostgreSQL y MongoDB, y me apasiona la arquitectura backend y la optimización de bases de datos.
+He trabajado tanto en el desarrollo de API REST como en la implementación de soluciones complejas a nivel de base de datos. Además, tengo experiencia integrando tecnologías como DBC y manejo de datos en entornos empresariales.
+
+A lo largo de mi carrera, también he trabajado en el desarrollo de interfaces de usuario con tecnologías como React y Redux, participando en varios proyectos full stack. Esta experiencia me permite tener una visión integral del desarrollo de aplicaciones, tanto desde el lado del cliente como del servidor. Sin embargo, mi enfoque actual está en profundizar en el desarrollo backend.
+
+Mi objetivo es seguir profundizando mis conocimientos en arquitectura de microservicios, manejo de grandes volúmenes de datos y optimización de rendimiento para ayudar a empresas a escalar sus soluciones tecnológicas.
+
+Me caracterizo por ser una persona disciplinada, empática y orientada a resultados, siempre dispuesto a colaborar y aprender del equipo.
+
+Experiencia Técnica:
+Java | Spring Boot | Hibernate | JDBC | PostgreSQL | MongoDB | SQL/PL-SQL | DBC | API REST
+React | Redux | JavaScript | HTML | CSS
 
 
 ## 🌐 Socials:
@@ -32,11 +45,17 @@ Aquí tienes algunos de los proyectos en los que he trabajado recientemente:
      usuarios mediante Mercado Pago u otras opciones de pago.
    - URL: [https://marketx-doploy.vercel.app/](https://marketx-doploy.vercel.app/)
 
-2. **Proyecto Full Stack sobre Foods**
+2. **Proyecto Download Youtube**
+   - Aplicación full stack para descargar videos y audios de YouTube usando tecnologías como web scraping y Node.js para el backend, junto con React.js, CSS y HTML en el frontend. La aplicación permite a los       usuarios pegar enlaces de YouTube y obtener opciones para descargar videos en diferentes formatos y calidades.
+   - Tecnologías utilizadas:
+   Backend: Node.js, Web Scraping
+   Frontend: React.js, CSS, HTML
+
+4. **Proyecto Full Stack sobre Foods**
    - Descripción: Podrás crear tus propias recetas, buscar alguna receta en específico, filtrarlas por diferentes opciones y más.
    - URL: [https://deploy-food-sage.vercel.app/](https://deploy-food-sage.vercel.app/)
 
-3. **Proyecto portafolio**
+5. **Proyecto portafolio**
    - Descripcio:   El proyecto consiste en la creación de mi portafolio personal como una Single Page Application (SPA). El objetivo principal es mostrar mis habilidades, proyectos anteriores, y experiencias       profesionales de una manera atractiva y organizada.
      En este proyecto, asumí el rol de desarrollador Full Stack y también el de diseñador. Fui responsable de la planificación, diseño y desarrollo de la SPA de principio a fin.
      Utilicé tecnologías como HTML, CSS y JavaScript para construir la interfaz de usuario de mi portafolio. Implementé un diseño moderno y receptivo que resalta mis proyectos y habilidades de manera efectiva.
