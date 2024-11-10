@@ -59,7 +59,7 @@ Aquí tienes algunos de los proyectos en los que he trabajado recientemente:
    - Descripcio:   El proyecto consiste en la creación de mi portafolio personal como una Single Page Application (SPA). El objetivo principal es mostrar mis habilidades, proyectos anteriores, y experiencias       profesionales de una manera atractiva y organizada.
      En este proyecto, asumí el rol de desarrollador Full Stack y también el de diseñador. Fui responsable de la planificación, diseño y desarrollo de la SPA de principio a fin.
      Utilicé tecnologías como HTML, CSS y JavaScript para construir la interfaz de usuario de mi portafolio. Implementé un diseño moderno y receptivo que resalta mis proyectos y habilidades de manera efectiva.
-   - URL: https://portfolio-gabriel20arr.vercel.app/
+   - URL: https://gabriel-arroyo.vercel.app/
 
 Agradezco tu consideración y me encantaría tener la oportunidad de discutir cómo puedo aportar valor a tu equipo.
 
