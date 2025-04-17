@@ -39,16 +39,16 @@ Aquí tienes algunos de los proyectos en los que he trabajado recientemente:
 1. **Proyecto Full Stack: Marketplace**
    - Descripción: Es un Marketplace donde podrás iniciar sesión con cuentas de Google o crear tu propia cuenta, podrás publicar tus productos y visualizarlos. También podrás comprar productos de otros 
      usuarios mediante Mercado Pago u otras opciones de pago.
-   - URL: [https://marketx-doploy.vercel.app/](https://marketx-doploy.vercel.app/)
+   - URL: [Sitio Web](https://marketx-doploy.vercel.app/)
 2. **🧉 Tu Mate - Aplicación E-commerce Full Stack **
-Tu Mate es una aplicación web de e-commerce desarrollada con React, Tailwind CSS, Spring Boot y MySQL, orientada a la venta de productos regionales con un enfoque moderno y responsive.
+   Tu Mate es una aplicación web de e-commerce desarrollada con React, Tailwind CSS, Spring Boot y MySQL, orientada a la venta de productos regionales con un enfoque moderno y responsive.
 
-Cuenta con:
-   - Frontend interactivo con navegación clara, carruseles de productos destacados, buscador, carrito de compras y páginas informativas.
-   - Autenticación con JWT, gestión de usuarios con roles (admin y usuario).
-   - Panel administrativo para CRUD de productos, usuarios y pedidos.
-   - Carrito persistente, selección de métodos de envío y sistema de compra integrado.
-   - Almacenamiento de imágenes en Cloudinary.
+   Cuenta con:
+      - Frontend interactivo con navegación clara, carruseles de productos destacados, buscador, carrito de compras y páginas informativas.
+      - Autenticación con JWT, gestión de usuarios con roles (admin y usuario).
+      - Panel administrativo para CRUD de productos, usuarios y pedidos.
+      - Carrito persistente, selección de métodos de envío y sistema de compra integrado.
+      - Almacenamiento de imágenes en Cloudinary.
 
 3. **Proyecto Download Youtube**
    - Aplicación full stack para descargar videos y audios de YouTube usando tecnologías como web scraping y Node.js para el backend, junto con React.js, CSS y HTML en el frontend. La aplicación permite a los       usuarios pegar enlaces de YouTube y obtener opciones para descargar videos en diferentes formatos y calidades.
@@ -64,7 +64,7 @@ Cuenta con:
    - Descripcio:   El proyecto consiste en la creación de mi portafolio personal como una Single Page Application (SPA). El objetivo principal es mostrar mis habilidades, proyectos anteriores, y experiencias       profesionales de una manera atractiva y organizada.
      En este proyecto, asumí el rol de desarrollador Full Stack y también el de diseñador. Fui responsable de la planificación, diseño y desarrollo de la SPA de principio a fin.
      Utilicé tecnologías como HTML, CSS y JavaScript para construir la interfaz de usuario de mi portafolio. Implementé un diseño moderno y receptivo que resalta mis proyectos y habilidades de manera efectiva.
-   - URL: https://gabriel-arroyo.vercel.app/
+   - URL: [Sitio Web](https://gabriel-arroyo.vercel.app/)
 
 Agradezco tu consideración y me encantaría tener la oportunidad de discutir cómo puedo aportar valor a tu equipo.
 
