@@ -56,11 +56,17 @@ Aquí tienes algunos de los proyectos en los que he trabajado recientemente:
    Backend: Node.js, Web Scraping
    Frontend: React.js, CSS, HTML
 
-4. **Proyecto Full Stack sobre Foods**
+4. **Organizer**
+   - Organizer es una herramienta diseñada para que reclutadores gestionen fácilmente candidatos de diversas profesiones.
+   - Cuenta con secciones de perfil, favoritos, ayuda y un home para navegación rápida.
+   - Incluye un buscador y paginación para explorar perfiles eficientemente.
+   - Con opciones de login y registro, Organizer se convierte en una solución práctica y ordenada para optimizar el proceso de reclutamiento.
+
+5. **Proyecto Full Stack sobre Foods**
    - Descripción: Podrás crear tus propias recetas, buscar alguna receta en específico, filtrarlas por diferentes opciones y más.
    - URL: [Sitio Web](https://deploy-food-sage.vercel.app/)
 
-5. **Proyecto portafolio**
+6. **Proyecto portafolio**
    - Descripcio:   El proyecto consiste en la creación de mi portafolio personal como una Single Page Application (SPA). El objetivo principal es mostrar mis habilidades, proyectos anteriores, y experiencias       profesionales de una manera atractiva y organizada.
      En este proyecto, asumí el rol de desarrollador Full Stack y también el de diseñador. Fui responsable de la planificación, diseño y desarrollo de la SPA de principio a fin.
      Utilicé tecnologías como HTML, CSS y JavaScript para construir la interfaz de usuario de mi portafolio. Implementé un diseño moderno y receptivo que resalta mis proyectos y habilidades de manera efectiva.
